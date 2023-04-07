@@ -2,7 +2,7 @@
 ## COVID-19 Antigen Test Card Dataset and Pretrain Model Download
 The dataset and classification network would be shared through GitHub community openly as a way to encourage more researchers and developers to conduct more in-depth and detailed research on this work. 
 
-[COVID_19_Antigen_Test](https://1drv.ms/u/s!Ai4XNxbYPcLikRJVb6kB5ynbelR9?e=KiepHs) 
+[COVID_19_Antigen_Test_Card_Dataset](https://1drv.ms/u/s!Ai4XNxbYPcLikRJVb6kB5ynbelR9?e=KiepHs) 
 
 [Pretrain_Model](https://1drv.ms/u/s!Ai4XNxbYPcLikRElQUcqXFEHCumD?e=PDmi9A) 
 
